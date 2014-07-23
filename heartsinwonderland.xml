@@ -254,6 +254,8 @@ nav input[type=checkbox]{
     
     nav input:checked ~ .menu{
         display: flex;
+	display: -webkit-flex;
+	display: -webkit-box;
     }
     
     nav label{

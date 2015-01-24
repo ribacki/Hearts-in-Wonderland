@@ -1100,7 +1100,7 @@ function replace_date(d) {
  <b:section class='sidebar' id='sidebar1' locked='false' showaddelement='yes'/>
 </div> <!-- /sidebar -->
 <div style='clear: both;'/>
-<div id='credit'>&#169; Design  <a href='http://bekreatief.blogspot.com'>Be KreaTief</a> &#183; 2014 &#183; Based on <a href='https://github.com/5202/five/blob/master/five.xml'>Five by 5202</a> &#183; Pattern Template by <a href='http://www.colourlovers.com/lover/simzu'>Simzu</a> &#183; &#169; Content <a expr:href='data:blog.homepageUrl'><data:blog.title/></a></div><!--/credit-->
+<div id='credit'>&#169; Design  <a href='http://bekreatief.blogspot.com'>Be KreaTief</a> &#183; 2015 &#183; Based on <a href='https://github.com/5202/five/blob/master/five.xml'>Five by 5202</a> &#183; Pattern Template by <a href='http://www.colourlovers.com/lover/simzu'>Simzu</a> &#183; &#169; Content <a expr:href='data:blog.homepageUrl'><data:blog.title/></a></div><!--/credit-->
 
 </div><!-- /container -->
 <script>

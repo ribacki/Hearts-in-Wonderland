@@ -1118,6 +1118,9 @@ function replace_date(d) {
  </style>
 </b:if>
 
+<!-- jQuery -->
+<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'/>
+
 <script>
 //<![CDATA[
     $(document).ready(function () {
@@ -1127,11 +1130,11 @@ function replace_date(d) {
             $(this).removeAttr('height');
         });
         
-        // remove empty preview img
-	$('.thumbpic[src=""]').remove();
+        $('.thumbpic[src=""]').remove();
     });
 //]]>
 </script>
+
 
 </body>
 </html>

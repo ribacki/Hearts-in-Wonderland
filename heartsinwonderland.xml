@@ -1118,5 +1118,20 @@ function replace_date(d) {
  </style>
 </b:if>
 
+<script>
+//<![CDATA[
+    $(document).ready(function () {
+        // fix responsive img stuff
+        $('img').each(function(){
+            $(this).removeAttr('width')
+            $(this).removeAttr('height');
+        });
+        
+        // remove empty preview img
+	$('.thumbpic[src=""]').remove();
+    });
+//]]>
+</script>
+
 </body>
 </html>
